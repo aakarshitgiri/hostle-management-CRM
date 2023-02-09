@@ -1,4 +1,4 @@
-# hostle-management-dashboa
+# hostle-management-CRM
 Hostle Management Dashboard (CRM)
 
 Hostel Management System 
